@@ -1,3 +1,4 @@
 Python implementation for Hummingbird-2 cipher
+Only have the encryption part (no decryption, mac)
 
-Contact http://about.bozhu.me
+http://about.bozhu.me
